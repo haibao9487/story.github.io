@@ -1,1 +1,1 @@
-# story1.github.io
+# story.github.io
